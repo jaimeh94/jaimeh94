@@ -57,7 +57,7 @@
 </div>
 <div>
 <h2 align="left">GitHub stats: </h2>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimeh94&langs_count=10&theme=tokyonight&layout=compact" alt="Jaime Cabrera :: Top Langs" / height="230" width="400"> 
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimeh94&langs_count=10" alt="Jaime Cabrera :: Top Langs" / height="230" width="400"> 
 <align="right"><img src="https://github-readme-stats.vercel.app/api?username=jaimeh94&show_icons=true" alt="Jaime Cabrera :: Profile Stats" / height="230" width="400">
 </p>
 </div>
