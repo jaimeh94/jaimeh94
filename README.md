@@ -7,27 +7,26 @@
   <p>I celebrate sharing my experience with people, and I love to learn from them, as well.</p>
 </div>
 <div align="left">
-  <ul>
-    <li> 🔭 I’m currently working as Medical Physicist trying to cure the cancer with radiotherapy.</li> <br />
-    <li> 🌱 I’m always learning Data Science, Machine Learning and Backend Developing.</li> <br />
-    <li> 👯 I’m looking to collaborate on Artificial Vision projects.</li> <br />
-    <li> 🤔 I’m looking for help with Computer Science.</li> <br />
-    <li> 💬 Ask me about Python, Physicis, Radiation, and Hardware Testing.</li> <br />
-    <li> 📫 How to reach me: <a href = "https://www.linkedin.com/in/jaimeh94/">LinkedIn Profile.</a></li> <br />
-    <li> 😄 Pronouns: he/him </li>
-  </ul>
+
+* 🔭 I’m currently working as Medical Physicist trying to cure the cancer with radiotherapy.
+* 🌱 I’m always learning Data Science, Machine Learning and Backend Developing. 
+*  👯 I’m looking to collaborate on Artificial Vision projects. 
+*  🤔 I’m looking for help with Computer Science.
+*  💬 Ask me about Python, Physicis, Radiation, and Hardware Testing.
+* 😄 Pronouns: he/him 
+  
 </div> 
 <h2 align="left">My progress: </h2>
 <p align="left"> You can see my profiles at Coursera and Platzi, where you can see all courses I've concluded</p>
 <p align="left"> 
 <a href="https://platzi.com/p/jaimecabrerasalcedo/">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f61865e4de3a772c5be475db8c2cb3ef923f082/icons/platzi.svg" alt="Jaime Cabrera's Platzi Profile" height="30" width="30">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f61865e4de3a772c5be475db8c2cb3ef923f082/icons/platzi.svg" alt="Jaime Cabrera's Platzi Profile" height="25" width="25">
   Jaime Cabrera's Platzi Profile
   </a>
 </p>
 
 <a href="https://www.coursera.org/user/62c2a2ad3152dde9dfdb437185860897">
-  <img src="https://github.com/simple-icons/simple-icons/blob/b9cc1788d1efa38de69a17e1c8cb9a86eeed4954/icons/coursera.svg" alt="Jaime Cabrera's Coursera Profile" height="30" width="30">
+  <img src="https://github.com/simple-icons/simple-icons/blob/b9cc1788d1efa38de69a17e1c8cb9a86eeed4954/icons/coursera.svg" alt="Jaime Cabrera's Coursera Profile" height="25" width="25">
   Jaime Cabrera's Coursera Profile
   </a>
 
@@ -61,20 +60,12 @@
 <align="right"><img src="https://github-readme-stats.vercel.app/api?username=jaimeh94&show_icons=true" alt="Jaime Cabrera :: Profile Stats" / height="230" width="400">
 </p>
 </div>
-<h2 align="left">Also you can reach me at ⚡</h2>
-<p align="left">
-<a href="https://www.linkedin.com/in/jaimeh94/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Jaime Cabrera's LinkedIn Profile" height="30" width="30">LinkedIn
-  </a>
-<a href="https://twitter.com/jaimeh94_">
-    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="Jaime Cabrera's Twitter Profile" height="30" width="30">Twitter
-  </a>
-</p>
-<h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{jaimeh94}/count.svg" alt="jaimeh94 :: Visitor's Count" /></p>
+<h2 align="left">📫 How to reach me:</h2>
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&color=black&labelColor=blue&link=https://www.linkedin.com/in/jaimeh94/)](https://www.linkedin.com/in/jaimeh94/)
+[![Upwork](https://img.shields.io/badge/-Twitter-white?style=flat-square&logo=Twitter&logoColor=white&labelColor=blue&color=black&link=https://twitter.com/jaimeh94_)](https://twitter.com/jaimeh94_)
 
-
+![](https://komarev.com/ghpvc/?username=jaimeh94)
 
 <!--
 ### Hi there 👋
